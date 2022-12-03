@@ -16,5 +16,5 @@ while True:
     pg.write(liste[count])
     pg.click(1090, 645)
     time.sleep(5)
-    count += 1;
+    count += 1
     count %= len(liste)
